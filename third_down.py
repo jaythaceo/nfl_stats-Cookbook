@@ -1,6 +1,6 @@
 import nflgame
 
-year, week, season_type = 2014, 1, 'REG'
+year, week, season_type = 2015, 1, 'REG'
 
 def third_down(teamname, play_gen):
   attempts = 0
