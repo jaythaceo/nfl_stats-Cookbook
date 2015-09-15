@@ -23,5 +23,5 @@ def total_sacks_earned(s,w,t):
 
 print total_sacks_earned(2013, None, "GB")
 print total_sacks_given(2013, None, "GB")
-print total_sacks_earned(2013, 10, "GB")
+print total_sacks_earned(2013, q10, "GB")
 print total_sacks_earned(2013, [1,2,3,4,5,6,7], "GB")
